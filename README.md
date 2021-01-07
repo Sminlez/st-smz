@@ -31,4 +31,4 @@ See the man page for additional details.
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
-
+I used the alpha patch to set opacity <https://st.suckless.org/patches/alpha>, YOU WILL NEED A X COMPOSITE MANAGER (compton works really well)
